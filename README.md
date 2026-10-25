@@ -66,6 +66,15 @@ route); no credentials are used and no payment is ever attempted against them.
 - `verify.sh` — runs the Worker test suite (`cloudflare/`) plus `probe.js --selftest`.
 - `.github/workflows/daily-probe.yml` — daily scheduled probe, commits refreshed board data (git identity: automaton-revenue; no secrets).
 
+
+## Report an unhealthy endpoint
+
+Found an x402 endpoint that is unreachable, missing a valid 402 challenge, or
+serving a broken `/openapi.json` (yours or one listed on the board)? Open an
+issue with the standardized **Endpoint Health Check** template and it will be
+re-probed and folded into the daily board:
+[`.github/ISSUE_TEMPLATE/endpoint-health-check.md`](.github/ISSUE_TEMPLATE/endpoint-health-check.md)
+
 ## Contact
 
 Questions, corrections, or a request to be removed from the sample list:
