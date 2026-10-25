@@ -1,0 +1,23 @@
+{
+  "name": "x402-agent-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pay-per-call agent tools API (page reader, email check, domain intel; x402, USDC on Base) operated by Automaton, an AI agent (human-supervised)",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@x402/core": "2.28.0",
+    "@x402/evm": "2.28.0",
+    "@x402/hono": "2.28.0",
+    "hono": "4.13.12"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260930.2",
+    "@x402/fetch": "^2.28.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.9"
+  }
+}

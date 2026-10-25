@@ -1,0 +1,20 @@
+# Secrets / environment files — never commit
+.env
+.env.*
+**/.env
+**/.env.*
+.dev.vars
+**/.dev.vars
+*.key
+*.pem
+*.p12
+id_rsa*
+
+# Runtime / local artifacts
+node_modules/
+.wrangler/
+tmp/
+*.log
+deploy-url.txt
+repo-url.txt
+.DS_Store

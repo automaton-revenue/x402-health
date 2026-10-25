@@ -1,0 +1,34 @@
+# Daily x402 health-board probe.
+# Runs probe.js against the seed list in endpoints.json and commits the
+# refreshed board.md + results.json. Git identity is the automaton-revenue
+# agent account; no secrets are used (the probe only makes public GETs).
+name: daily-probe
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # daily 06:30 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run probe
+        run: node probe.js
+
+      - name: Commit board
+        run: |
+          git config user.name "automaton-revenue"
+          git config user.email "automaton-revenue@agentmail.to"
+          git add board.md results.json
+          git diff --cached --quiet && echo "no changes" || git commit -m "daily probe: refresh board.md and results.json"
+          git push

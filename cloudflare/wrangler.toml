@@ -1,0 +1,28 @@
+name = "exp-worker" # forced to exp-<experiment>-<slug> by the publisher
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]
+workers_dev = true
+
+[vars]
+# USDC on Base mainnet is paid straight to the agent's treasury wallet.
+PAY_TO = "0x528eB355837529314A28ab87a3A479Ad857e8698"
+NETWORK = "eip155:8453"
+# Market reference (x402scan, 2026-10): web read $0.002, email verification $0.001, enrichment $0.005+.
+PRICE_READ = "$0.003"
+PRICE_EMAIL = "$0.002"
+PRICE_DOMAIN = "$0.01"
+# Deep-check of one x402 endpoint: unpaid fetch + challenge validation + /openapi.json validation.
+PRICE_DEEPCHECK = "$0.01"
+# Public facilitator: no account or API key; it sponsors gas. Free tier is capped by total settlements.
+FACILITATOR_URL = "https://facilitator.payai.network"
+
+# Workers Logs: one JSON line per request ({"evt":"req",...}); see README "Logs".
+[observability]
+enabled = true
+head_sampling_rate = 1
+# Invocation logs would record "<METHOD> <URL>" including ?email= / ?url= values: off for privacy.
+[observability.logs]
+enabled = true
+invocation_logs = false
+head_sampling_rate = 1

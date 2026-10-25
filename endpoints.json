@@ -1,0 +1,274 @@
+{
+  "generatedAt": "2026-10-25T07:51:12.132Z",
+  "note": "Seed list of x402 endpoint base URLs advertised on public directory pages (x402lens.com, x402-list.com), which index x402scan-listed services. probe.js checks each base URL and its /openapi.json.",
+  "sources": [
+    "https://x402lens.com/sitemap.xml",
+    "https://x402-list.com/sitemap.xml"
+  ],
+  "endpoints": [
+    {
+      "url": "https://01mind.net",
+      "source": "https://x402lens.com/services/01mind-net"
+    },
+    {
+      "url": "https://aegis-audit-x402.project-easy-x.workers.dev",
+      "source": "https://x402lens.com/services/aegis-audit-x402-project-easy-x-workers-dev"
+    },
+    {
+      "url": "https://agent-product-normalizer.vercel.app",
+      "source": "https://x402lens.com/services/agent-product-normalizer-vercel-app"
+    },
+    {
+      "url": "https://agentichoneypot.com",
+      "source": "https://x402lens.com/services/agentic-honeypot-agentichoneypot-com"
+    },
+    {
+      "url": "https://agorean-legwork.fly.dev",
+      "source": "https://x402lens.com/services/agorean-legwork-fly-dev"
+    },
+    {
+      "url": "https://api.agentfeeds.jp",
+      "source": "https://x402lens.com/services/api-agentfeeds-jp"
+    },
+    {
+      "url": "https://api-datos-uy-ar.vercel.app",
+      "source": "https://x402lens.com/services/api-datos-uy-ar-vercel-app"
+    },
+    {
+      "url": "https://api.itsgloria.ai",
+      "source": "https://x402lens.com/services/api-itsgloria-ai"
+    },
+    {
+      "url": "https://api.pdfzen.site",
+      "source": "https://x402lens.com/services/api-pdfzen-site"
+    },
+    {
+      "url": "https://vextorium.com",
+      "source": "https://x402lens.com/services/api-vextorium-com"
+    },
+    {
+      "url": "https://astra-x402-data.astratc.workers.dev",
+      "source": "https://x402lens.com/services/astra-x402-data-astratc-workers-dev"
+    },
+    {
+      "url": "https://token-check.yukikawata.workers.dev",
+      "source": "https://x402lens.com/services/base-token-check-token-check-yukikawata-workers-dev"
+    },
+    {
+      "url": "https://api.brazilayer.com",
+      "source": "https://x402lens.com/services/brazilayer-cnpj-registry-api-brazilayer-com"
+    },
+    {
+      "url": "https://claudelines.com",
+      "source": "https://x402lens.com/services/claudelines-com"
+    },
+    {
+      "url": "https://mcp.courtdelta.com",
+      "source": "https://x402lens.com/services/court-delta-pro-mcp-courtdelta-com"
+    },
+    {
+      "url": "https://api.datasieve.xyz",
+      "source": "https://x402lens.com/services/datasieve-api-datasieve-xyz"
+    },
+    {
+      "url": "https://api.duoleads.com",
+      "source": "https://x402lens.com/services/duo-data-utilities-api-duoleads-com"
+    },
+    {
+      "url": "https://fetchharbor.benlab.download",
+      "source": "https://x402lens.com/services/fetchharbor-benlab-download"
+    },
+    {
+      "url": "https://gateway.grapevine.fyi",
+      "source": "https://x402lens.com/services/gateway-grapevine-fyi"
+    },
+    {
+      "url": "https://api.hodlodds.com",
+      "source": "https://x402lens.com/services/hodlodds-api-hodlodds-com"
+    },
+    {
+      "url": "https://japan-business-day-api.matchan962.workers.dev",
+      "source": "https://x402lens.com/services/japan-business-day-api-matchan962-workers-dev"
+    },
+    {
+      "url": "https://landingen24h.com",
+      "source": "https://x402lens.com/services/landing-en-24h-landingen24h-com"
+    },
+    {
+      "url": "https://example.com",
+      "source": "https://x402lens.com/services/machine-shop-api-pay-forge-online"
+    },
+    {
+      "url": "https://api.regressionincoming.fyi",
+      "source": "https://x402lens.com/services/nfl-preseason-rankings-api-regressionincoming-fyi"
+    },
+    {
+      "url": "https://orbylon.com",
+      "source": "https://x402lens.com/services/orbylon-com"
+    },
+    {
+      "url": "https://penny402.fun",
+      "source": "https://x402lens.com/services/penny402-fun"
+    },
+    {
+      "url": "https://promptqualityscore.com",
+      "source": "https://x402lens.com/services/promptqualityscore-com"
+    },
+    {
+      "url": "https://retcg.xyz",
+      "source": "https://x402lens.com/services/re-tcg-appraise-www-retcg-xyz"
+    },
+    {
+      "url": "https://route-a-worker.frostskynet-api.workers.dev",
+      "source": "https://x402lens.com/services/route-a-worker-frostskynet-api-workers-dev"
+    },
+    {
+      "url": "https://settled.justinedwardvolmer.workers.dev",
+      "source": "https://x402lens.com/services/settled-justinedwardvolmer-workers-dev"
+    },
+    {
+      "url": "https://spark-api-preflight.replit.app",
+      "source": "https://x402lens.com/services/spark-invocation-assurance-spark-api-preflight-replit-app"
+    },
+    {
+      "url": "https://stratly.us",
+      "source": "https://x402lens.com/services/stratly-us"
+    },
+    {
+      "url": "https://ticks.bnm.farm",
+      "source": "https://x402lens.com/services/ticks-bnm-farm"
+    },
+    {
+      "url": "https://mini-tollbooth.onrender.com",
+      "source": "https://x402lens.com/services/trollbridge-mini-tollbooth-onrender-com"
+    },
+    {
+      "url": "https://venzia-complet-ezip.replit.app",
+      "source": "https://x402lens.com/services/venzia-complet-ezip-replit-app"
+    },
+    {
+      "url": "https://well-015-municipal-notices.mmelnyk2000.workers.dev",
+      "source": "https://x402lens.com/services/well-015-municipal-notices-mmelnyk2000-workers-dev"
+    },
+    {
+      "url": "https://tereno.xyz",
+      "source": "https://x402lens.com/services/www-tereno-xyz"
+    },
+    {
+      "url": "https://x402-endpoints.onrender.com",
+      "source": "https://x402lens.com/services/x402-endpoints-onrender-com"
+    },
+    {
+      "url": "https://x402.qsig.net",
+      "source": "https://x402lens.com/services/x402-qsig-net"
+    },
+    {
+      "url": "https://grist.tools",
+      "source": "https://x402-list.com/services/category/data"
+    },
+    {
+      "url": "https://consumer.lonestaroracle.xyz",
+      "source": "https://x402-list.com/services/consumerpulse"
+    },
+    {
+      "url": "https://sourcey.com",
+      "source": "https://x402-list.com/services/sourcey-startup-review"
+    },
+    {
+      "url": "https://yiduochan.com",
+      "source": "https://x402-list.com/services/yiduochan-api-credits"
+    },
+    {
+      "url": "https://news-x402.com",
+      "source": "https://x402-list.com/services/gdelt-news-intelligence-api"
+    },
+    {
+      "url": "https://fablerlabs.com",
+      "source": "https://x402-list.com/services/fabler-labs-x402-storefront"
+    },
+    {
+      "url": "https://kilawattcloud.dev",
+      "source": "https://x402-list.com/services/kilawatt-cloud"
+    },
+    {
+      "url": "https://ozmium.org",
+      "source": "https://x402-list.com/services/ozmium-agent-api"
+    },
+    {
+      "url": "https://tokenbooth.io",
+      "source": "https://x402-list.com/services/location-grounding-for-agents"
+    },
+    {
+      "url": "https://orcatrace.dev",
+      "source": "https://x402-list.com/services/orcatrace"
+    },
+    {
+      "url": "https://strategysignals.duckdns.org",
+      "source": "https://x402-list.com/services/trading-strategy-data"
+    },
+    {
+      "url": "https://percall.io",
+      "source": "https://x402-list.com/services/percall-arc-agent-data-pay-per-call"
+    },
+    {
+      "url": "https://inboxguards.com",
+      "source": "https://x402-list.com/services/inboxguards-email-test"
+    },
+    {
+      "url": "https://latam.lonestaroracle.xyz",
+      "source": "https://x402-list.com/services/latampulse"
+    },
+    {
+      "url": "https://trezalabs.com",
+      "source": "https://x402-list.com/services/treza"
+    },
+    {
+      "url": "https://192-255-151-232.sslip.io",
+      "source": "https://x402-list.com/services/aidan-wallet-insight"
+    },
+    {
+      "url": "https://scout.hugen.tokyo",
+      "source": "https://x402-list.com/services/scout-multi-source-intelligence-api"
+    },
+    {
+      "url": "https://greenwood.financial",
+      "source": "https://x402-list.com/services/greenwood-financial-intelligence"
+    },
+    {
+      "url": "https://stakevia.xyz",
+      "source": "https://x402-list.com/services/stakevia"
+    },
+    {
+      "url": "https://ffpipe.dev",
+      "source": "https://x402-list.com/services/ffpipe"
+    },
+    {
+      "url": "https://property.payapi.market",
+      "source": "https://x402-list.com/services/payapi-market-uk-property-data-api"
+    },
+    {
+      "url": "https://wallet.lonestaroracle.xyz",
+      "source": "https://x402-list.com/services/walletrisk"
+    },
+    {
+      "url": "https://watchevelive.com",
+      "source": "https://x402-list.com/services/eve-s-wire"
+    },
+    {
+      "url": "https://stake.lonestaroracle.xyz",
+      "source": "https://x402-list.com/services/stakeedge"
+    },
+    {
+      "url": "https://nanoparse.app",
+      "source": "https://x402-list.com/services/nanoparse"
+    },
+    {
+      "url": "https://defi.lonestaroracle.xyz",
+      "source": "https://x402-list.com/services/defirisk"
+    },
+    {
+      "url": "https://x402.laboiteatubes.media",
+      "source": "https://x402-list.com/services/coprocesseur-d-terministe"
+    }
+  ]
+}
