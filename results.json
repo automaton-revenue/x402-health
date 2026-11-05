@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04 07:47:55.360Z",
+  "generatedAt": "2026-11-05 07:50:03.633Z",
   "count": 66,
   "results": [
     {
@@ -10,7 +10,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.0.3",
-      "lastChecked": "2026-11-04 07:46:24.500Z",
+      "lastChecked": "2026-11-05 07:48:37.079Z",
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "challengeDetail": "402 challenge on /api/v1/kya",
       "openapi": true,
       "openapiDetail": "spec 3.0.3",
-      "lastChecked": "2026-11-04 07:46:24.562Z",
+      "lastChecked": "2026-11-05 07:48:37.124Z",
       "error": null
     },
     {
@@ -32,7 +32,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:24.563Z",
+      "lastChecked": "2026-11-05 07:48:37.125Z",
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "challengeDetail": "402 challenge on /v1/federal-register/latest",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:24.564Z",
+      "lastChecked": "2026-11-05 07:48:37.126Z",
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:24.566Z",
+      "lastChecked": "2026-11-05 07:48:37.127Z",
       "error": null
     },
     {
@@ -65,7 +65,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:24.567Z",
+      "lastChecked": "2026-11-05 07:48:37.128Z",
       "error": null
     },
     {
@@ -76,7 +76,7 @@
       "challengeDetail": "402 challenge on /uy/ui",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:24.568Z",
+      "lastChecked": "2026-11-05 07:48:37.129Z",
       "error": null
     },
     {
@@ -87,7 +87,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:24.569Z",
+      "lastChecked": "2026-11-05 07:48:37.129Z",
       "error": null
     },
     {
@@ -98,7 +98,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:26.919Z",
+      "lastChecked": "2026-11-05 07:48:41.181Z",
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:26.920Z",
+      "lastChecked": "2026-11-05 07:48:41.182Z",
       "error": null
     },
     {
@@ -120,7 +120,7 @@
       "challengeDetail": "402 challenge on /v1/coin",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:26.921Z",
+      "lastChecked": "2026-11-05 07:48:41.183Z",
       "error": null
     },
     {
@@ -131,19 +131,19 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:26.922Z",
+      "lastChecked": "2026-11-05 07:48:41.184Z",
       "error": null
     },
     {
       "url": "https://api.brazilayer.com",
       "source": "https://api.brazilayer.com",
-      "status": 302,
+      "status": null,
       "challenge402": false,
-      "challengeDetail": "no 402 response",
+      "challengeDetail": "base unreachable",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:26.922Z",
-      "error": null
+      "lastChecked": "2026-11-05 07:48:41.184Z",
+      "error": "base fetch failed: TypeError"
     },
     {
       "url": "https://claudelines.com",
@@ -153,7 +153,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:26.923Z",
+      "lastChecked": "2026-11-05 07:48:41.185Z",
       "error": null
     },
     {
@@ -164,7 +164,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:26.924Z",
+      "lastChecked": "2026-11-05 07:48:41.185Z",
       "error": null
     },
     {
@@ -175,7 +175,7 @@
       "challengeDetail": "402 challenge on /utils/x402-ping",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:26.924Z",
+      "lastChecked": "2026-11-05 07:48:41.186Z",
       "error": null
     },
     {
@@ -186,7 +186,7 @@
       "challengeDetail": "402 challenge on /v1/id/security",
       "openapi": true,
       "openapiDetail": "spec 3.1.1",
-      "lastChecked": "2026-11-04 07:46:54.206Z",
+      "lastChecked": "2026-11-05 07:49:02.244Z",
       "error": null
     },
     {
@@ -197,7 +197,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:54.207Z",
+      "lastChecked": "2026-11-05 07:49:02.245Z",
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 400",
-      "lastChecked": "2026-11-04 07:46:54.207Z",
+      "lastChecked": "2026-11-05 07:49:02.246Z",
       "error": null
     },
     {
@@ -219,7 +219,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:54.208Z",
+      "lastChecked": "2026-11-05 07:49:02.246Z",
       "error": null
     },
     {
@@ -230,7 +230,7 @@
       "challengeDetail": "402 challenge on /v1/bank-value-date",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:54.209Z",
+      "lastChecked": "2026-11-05 07:49:02.247Z",
       "error": null
     },
     {
@@ -241,7 +241,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:54.209Z",
+      "lastChecked": "2026-11-05 07:49:02.247Z",
       "error": null
     },
     {
@@ -252,7 +252,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:54.210Z",
+      "lastChecked": "2026-11-05 07:49:02.248Z",
       "error": null
     },
     {
@@ -263,7 +263,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.0.3",
-      "lastChecked": "2026-11-04 07:46:54.210Z",
+      "lastChecked": "2026-11-05 07:49:02.248Z",
       "error": null
     },
     {
@@ -274,7 +274,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:56.546Z",
+      "lastChecked": "2026-11-05 07:49:04.322Z",
       "error": null
     },
     {
@@ -285,7 +285,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:56.547Z",
+      "lastChecked": "2026-11-05 07:49:04.323Z",
       "error": null
     },
     {
@@ -296,7 +296,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:56.547Z",
+      "lastChecked": "2026-11-05 07:49:04.323Z",
       "error": null
     },
     {
@@ -307,7 +307,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:56.548Z",
+      "lastChecked": "2026-11-05 07:49:04.324Z",
       "error": null
     },
     {
@@ -318,7 +318,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:56.549Z",
+      "lastChecked": "2026-11-05 07:49:04.324Z",
       "error": null
     },
     {
@@ -329,7 +329,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:56.550Z",
+      "lastChecked": "2026-11-05 07:49:04.325Z",
       "error": null
     },
     {
@@ -340,7 +340,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:46:56.551Z",
+      "lastChecked": "2026-11-05 07:49:04.325Z",
       "error": null
     },
     {
@@ -351,7 +351,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:56.551Z",
+      "lastChecked": "2026-11-05 07:49:04.325Z",
       "error": null
     },
     {
@@ -362,7 +362,7 @@
       "challengeDetail": "402 challenge on /ticks",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:59.470Z",
+      "lastChecked": "2026-11-05 07:49:07.649Z",
       "error": null
     },
     {
@@ -373,7 +373,7 @@
       "challengeDetail": "402 challenge on /bounties",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:59.471Z",
+      "lastChecked": "2026-11-05 07:49:07.650Z",
       "error": null
     },
     {
@@ -384,7 +384,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:59.471Z",
+      "lastChecked": "2026-11-05 07:49:07.651Z",
       "error": null
     },
     {
@@ -395,7 +395,7 @@
       "challengeDetail": "base unreachable",
       "openapi": false,
       "openapiDetail": "fetch failed: TypeError",
-      "lastChecked": "2026-11-04 07:46:59.472Z",
+      "lastChecked": "2026-11-05 07:49:07.652Z",
       "error": "base fetch failed: TypeError"
     },
     {
@@ -406,7 +406,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.0.3",
-      "lastChecked": "2026-11-04 07:46:59.473Z",
+      "lastChecked": "2026-11-05 07:49:07.652Z",
       "error": null
     },
     {
@@ -417,18 +417,18 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:59.474Z",
+      "lastChecked": "2026-11-05 07:49:07.653Z",
       "error": null
     },
     {
       "url": "https://x402.qsig.net",
       "source": "https://x402.qsig.net",
-      "status": 200,
-      "challenge402": true,
-      "challengeDetail": "402 challenge on /v1/georisk",
-      "openapi": true,
-      "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:59.474Z",
+      "status": 521,
+      "challenge402": false,
+      "challengeDetail": "no 402 response",
+      "openapi": false,
+      "openapiDetail": "HTTP 521",
+      "lastChecked": "2026-11-05 07:49:07.653Z",
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:46:59.475Z",
+      "lastChecked": "2026-11-05 07:49:07.653Z",
       "error": null
     },
     {
@@ -450,7 +450,7 @@
       "challengeDetail": "402 challenge on /consumer",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:09.058Z",
+      "lastChecked": "2026-11-05 07:49:13.712Z",
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:47:09.059Z",
+      "lastChecked": "2026-11-05 07:49:13.713Z",
       "error": null
     },
     {
@@ -472,7 +472,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.0.3",
-      "lastChecked": "2026-11-04 07:47:09.060Z",
+      "lastChecked": "2026-11-05 07:49:13.713Z",
       "error": null
     },
     {
@@ -483,7 +483,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:09.061Z",
+      "lastChecked": "2026-11-05 07:49:13.714Z",
       "error": null
     },
     {
@@ -494,7 +494,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:47:09.062Z",
+      "lastChecked": "2026-11-05 07:49:13.714Z",
       "error": null
     },
     {
@@ -505,7 +505,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:47:09.062Z",
+      "lastChecked": "2026-11-05 07:49:13.715Z",
       "error": null
     },
     {
@@ -516,7 +516,7 @@
       "challengeDetail": "402 challenge on /api",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:09.063Z",
+      "lastChecked": "2026-11-05 07:49:13.715Z",
       "error": null
     },
     {
@@ -527,7 +527,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:09.064Z",
+      "lastChecked": "2026-11-05 07:49:13.716Z",
       "error": null
     },
     {
@@ -538,7 +538,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:11.307Z",
+      "lastChecked": "2026-11-05 07:49:16.665Z",
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:11.308Z",
+      "lastChecked": "2026-11-05 07:49:16.666Z",
       "error": null
     },
     {
@@ -560,7 +560,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:47:11.308Z",
+      "lastChecked": "2026-11-05 07:49:16.667Z",
       "error": null
     },
     {
@@ -571,7 +571,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "invalid JSON (SyntaxError)",
-      "lastChecked": "2026-11-04 07:47:11.309Z",
+      "lastChecked": "2026-11-05 07:49:16.667Z",
       "error": null
     },
     {
@@ -582,7 +582,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:11.310Z",
+      "lastChecked": "2026-11-05 07:49:16.667Z",
       "error": null
     },
     {
@@ -593,7 +593,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.0.0",
-      "lastChecked": "2026-11-04 07:47:11.310Z",
+      "lastChecked": "2026-11-05 07:49:16.668Z",
       "error": null
     },
     {
@@ -604,7 +604,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:11.311Z",
+      "lastChecked": "2026-11-05 07:49:16.668Z",
       "error": null
     },
     {
@@ -615,7 +615,7 @@
       "challengeDetail": "402 challenge on /scout/awesome",
       "openapi": true,
       "openapiDetail": "spec 3.0.3",
-      "lastChecked": "2026-11-04 07:47:11.311Z",
+      "lastChecked": "2026-11-05 07:49:16.669Z",
       "error": null
     },
     {
@@ -626,7 +626,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:47:12.861Z",
+      "lastChecked": "2026-11-05 07:49:20.851Z",
       "error": null
     },
     {
@@ -637,7 +637,7 @@
       "challengeDetail": "no 402 response",
       "openapi": false,
       "openapiDetail": "HTTP 404",
-      "lastChecked": "2026-11-04 07:47:12.862Z",
+      "lastChecked": "2026-11-05 07:49:20.851Z",
       "error": null
     },
     {
@@ -648,7 +648,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:12.863Z",
+      "lastChecked": "2026-11-05 07:49:20.852Z",
       "error": null
     },
     {
@@ -659,7 +659,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:12.864Z",
+      "lastChecked": "2026-11-05 07:49:20.852Z",
       "error": null
     },
     {
@@ -670,7 +670,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:12.864Z",
+      "lastChecked": "2026-11-05 07:49:20.853Z",
       "error": null
     },
     {
@@ -681,7 +681,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:12.865Z",
+      "lastChecked": "2026-11-05 07:49:20.853Z",
       "error": null
     },
     {
@@ -692,7 +692,7 @@
       "challengeDetail": "402 challenge on /report",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:12.865Z",
+      "lastChecked": "2026-11-05 07:49:20.854Z",
       "error": null
     },
     {
@@ -703,7 +703,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:12.866Z",
+      "lastChecked": "2026-11-05 07:49:20.854Z",
       "error": null
     },
     {
@@ -714,7 +714,7 @@
       "challengeDetail": "no 402 response",
       "openapi": true,
       "openapiDetail": "spec 3.1.0",
-      "lastChecked": "2026-11-04 07:47:13.756Z",
+      "lastChecked": "2026-11-05 07:49:21.691Z",
       "error": null
     },
     {
@@ -725,7 +725,7 @@
       "challengeDetail": "base unreachable",
       "openapi": false,
       "openapiDetail": "fetch failed: TypeError",
-      "lastChecked": "2026-11-04 07:47:13.757Z",
+      "lastChecked": "2026-11-05 07:49:21.692Z",
       "error": "base fetch failed: TypeError"
     }
   ]
